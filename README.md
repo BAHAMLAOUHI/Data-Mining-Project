@@ -2,7 +2,8 @@
 
 This repository contains a data mining project focused on detecting online fraud through a combination of clustering and anomaly detection techniques. The project is organized into several phases:
 
-1- Dataset: A publicly available dataset from Kaggle, specifically designed for fraud detection.
+1- Dataset: A publicly available dataset from Kaggle, specifically designed for fraud detection : 
+"https://www.kaggle.com/code/handekln/online-payment-fraud-detection"
 
 2- Exploratory Data Analysis (EDA) & Preprocessing: Initial data exploration and cleaning to understand key patterns and prepare the data for modeling.
 
